@@ -4,6 +4,8 @@ This is a simple website project in a repository is for showing how Git and GitH
 
 ## Introduction
 
+This example shows different parts of the Git repository and various commands using a web project.
+
 ## Deployment
 
 ## Purpose
