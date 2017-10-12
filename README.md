@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a simple website project in a repository is for showing how Git and GitHub work together. Adding a line for rebasing example.
+This is a simple website project in a repository is for showing how Git and GitHub work together. Adding a line for rebasing example, then 
+more changes from myFeature branch too.
 
 ## Introduction
 
